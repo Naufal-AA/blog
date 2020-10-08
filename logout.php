@@ -1,0 +1,9 @@
+<?php 
+require_once("assets/include/session.php");
+require_once("assets/include/Functions.php");
+?>
+<?php
+$_SESSION['Userid']=null;
+session_destroy();
+Redirect_to("login.php");
+?>

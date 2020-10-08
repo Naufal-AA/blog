@@ -1,0 +1,126 @@
+.col-sm-2{
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:120px;
+	background:#efefef;
+}
+.row1{
+	margin-bottom:20px;
+	min-height:450px;
+}
+.row1 ul{
+	margin-top:10px;
+	margin-bottom:20px;
+	margin-right:5px;
+	margin-left:5px;
+}
+h1 { 
+	margin-top: 10px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 36px;
+	font-weight: 300;
+	color: #555;
+	line-height: 50px;
+}
+.sidebar{
+	border:2px solid #868686;
+	margin-top:30px;
+}
+
+.sideul {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 14px;
+	color: #555;
+	border
+}
+
+.sideul li a {
+	color: #555;
+	border: 0;
+	text-align:left;
+}
+
+.sideul li a:hover {
+	color: #565353;
+	border: 0; 
+	background:#54ab2e;
+	display:block;
+	font-weight:bold;
+	
+}
+.sideul .active {
+	color: #4bb1e6;
+	font-weight: bold;
+}
+.info{
+	color:#26598e;
+}
+img{
+	padding-top:20px;
+	padding-bottom:20px;
+	position:relative;
+}
+.edit{
+	float:left;
+	margin:0px;
+	width:70px;
+	height:35px;
+	margin-bottom:3px;
+	margin-top:3px;
+}
+.delete{
+	float:right;
+	margin:0px;
+	width:70px;
+	height:35px;
+	padding-left:-25px;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+.preview{
+	margin-bottom:3px;
+	margin-top:3px;
+}
+
+.edit:hover, .edit:focus, .delete:hover, .delete:focus , .preview:hover, .preview:focus{
+	color: #ddd; 
+	text-decoration: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+.fieldinfo{
+	color:#e4bf12;
+	float:left;
+}
+.fieldinforesult{
+	color:#f3056a;
+}
+
+#h33 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 26px;
+	font-weight: 300;
+	color: #555;
+	line-height: 40px;
+}
+.login{
+	float:right;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.loginhead h2{
+	margin-top: 60px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 28px;
+	font-weight: 300;
+}
+.contact{
+	padding-left:40px;
+}
+.contact p{
+	text-align:left;
+	padding-left:40px;
+}
+.fooicon{
+	float:left;
+	padding-top:6px;
+}
